@@ -1,0 +1,27 @@
+
+
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+    Variables:
+    Es un espacio o un lugar donde se almacena o se guarda un valor.
+
+    Strings:
+    Es una cadena de caracteres.
+
+    Funciones:
+    Es un pequeño codigo o la segmentación de todo el codigo de un programa que ayuda a 
+    mantenerlo separado para operaciones especificas.
+
+    Declaraciones:
+    Es la manera unica de identificar una variable dentro de un codigo.
+
+    Valores booleanos:
+    Es la forma de representar un valor logico, puede ser falso o verdadero.
+
+
